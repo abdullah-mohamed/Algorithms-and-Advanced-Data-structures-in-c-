@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="DataStructures" Database="" Version="10.0.0">
+  <VirtualDirectory Name="Algorithms">
+    <Project Name="Merge_sort" Path="Merge_sort/Merge_sort.project" Active="No"/>
+    <Project Name="quick_sort" Path="quick_sort/quick_sort.project" Active="No"/>
+    <Project Name="test" Path="test/test.project" Active="No"/>
+    <Project Name="binary_search" Path="binary_search/binary_search.project" Active="No"/>
+    <Project Name="Matrix_multiplication" Path="Matrix_multiplication/Matrix_multiplication.project" Active="No"/>
+    <VirtualDirectory Name="greedy method">
+      <Project Name="fractional_knapsack" Path="fractional_knapsack/fractional_knapsack.project" Active="No"/>
+      <Project Name="job_with_deadline" Path="job_with_deadline/job_with_deadline.project" Active="No"/>
+      <Project Name="dijkistra" Path="dijkistra/dijkistra.project" Active="No"/>
+      <Project Name="Prim_min_span_tree" Path="Prim_min_span_tree/Prim_min_span_tree.project" Active="No"/>
+      <Project Name="Kruskal_min_span_tree" Path="Kruskal_min_span_tree/Kruskal_min_span_tree.project" Active="No"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="DP">
+      <Project Name="multistage_graph" Path="multistage_graph/multistage_graph.project" Active="No"/>
+      <Project Name="Floyd_Warshall_all_pairs_shortest_path_matrix" Path="Floyd_Warshall_all_pairs_shortest_path_matrix/Floyd_Warshall_all_pairs_shortest_path_matrix.project" Active="No"/>
+      <Project Name="atcoder_frog1" Path="atcoder_frog1/atcoder_frog1.project" Active="No"/>
+      <Project Name="Paranthesization" Path="Paranthesization/Paranthesization.project" Active="Yes"/>
+      <Project Name="paranthesization_back_tracking" Path="paranthesization_back_tracking/paranthesization_back_tracking.project" Active="No"/>
+    </VirtualDirectory>
+    <Project Name="kadane_max_subarray_sum" Path="kadane_max_subarray_sum/kadane_max_subarray_sum.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="DS">
+    <Project Name="Graph" Path="Graph/Graph.project" Active="No"/>
+    <Project Name="Heap_Array_imp" Path="Heap_Array_imp/Heap_Array_imp.project" Active="No"/>
+    <Project Name="priority_queue_with_struct_op_overload" Path="priority_queue_with_struct_op_overload/priority_queue_with_struct_op_overload.project" Active="No"/>
+    <Project Name="Recursion" Path="Recursion/Recursion.project" Active="No"/>
+    <Project Name="BST" Path="BST/BST.project" Active="No"/>
+    <Project Name="AVL_trees" Path="AVL_trees/AVL_trees.project" Active="No"/>
+    <Project Name="Red_black_tree" Path="Red_black_tree/Red_black_tree.project" Active="No"/>
+    <Project Name="RBT_xieping_github" Path="RBT_xieping_github/RBT_xieping_github.project" Active="No"/>
+    <Project Name="Trie" Path="Trie/Trie.project" Active="No"/>
+  </VirtualDirectory>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Graph" ConfigName="Debug"/>
+      <Project Name="priority_queue_with_struct_op_overload" ConfigName="Debug"/>
+      <Project Name="Recursion" ConfigName="Debug"/>
+      <Project Name="Heap_Array_imp" ConfigName="Debug"/>
+      <Project Name="Merge_sort" ConfigName="Debug"/>
+      <Project Name="BST" ConfigName="Debug"/>
+      <Project Name="quick_sort" ConfigName="Debug"/>
+      <Project Name="AVL_trees" ConfigName="Debug"/>
+      <Project Name="test" ConfigName="Debug"/>
+      <Project Name="binary_search" ConfigName="Debug"/>
+      <Project Name="Matrix_multiplication" ConfigName="Debug"/>
+      <Project Name="fractional_knapsack" ConfigName="Debug"/>
+      <Project Name="Red_black_tree" ConfigName="Debug"/>
+      <Project Name="multistage_graph" ConfigName="Debug"/>
+      <Project Name="kadane_max_subarray_sum" ConfigName="Debug"/>
+      <Project Name="RBT_xieping_github" ConfigName="Debug"/>
+      <Project Name="job_with_deadline" ConfigName="Debug"/>
+      <Project Name="dijkistra" ConfigName="Debug"/>
+      <Project Name="Prim_min_span_tree" ConfigName="Debug"/>
+      <Project Name="Kruskal_min_span_tree" ConfigName="Debug"/>
+      <Project Name="Trie" ConfigName="Debug"/>
+      <Project Name="Floyd_Warshall_all_pairs_shortest_path_matrix" ConfigName="Debug"/>
+      <Project Name="atcoder_frog1" ConfigName="Debug"/>
+      <Project Name="Paranthesization" ConfigName="Debug"/>
+      <Project Name="paranthesization_back_tracking" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Graph" ConfigName="Release"/>
+      <Project Name="priority_queue_with_struct_op_overload" ConfigName="Release"/>
+      <Project Name="Recursion" ConfigName="Release"/>
+      <Project Name="Heap_Array_imp" ConfigName="Release"/>
+      <Project Name="Merge_sort" ConfigName="Release"/>
+      <Project Name="BST" ConfigName="Release"/>
+      <Project Name="quick_sort" ConfigName="Release"/>
+      <Project Name="AVL_trees" ConfigName="Release"/>
+      <Project Name="test" ConfigName="Release"/>
+      <Project Name="binary_search" ConfigName="Release"/>
+      <Project Name="Matrix_multiplication" ConfigName="Release"/>
+      <Project Name="fractional_knapsack" ConfigName="Release"/>
+      <Project Name="Red_black_tree" ConfigName="Release"/>
+      <Project Name="multistage_graph" ConfigName="Release"/>
+      <Project Name="kadane_max_subarray_sum" ConfigName="Release"/>
+      <Project Name="RBT_xieping_github" ConfigName="Release"/>
+      <Project Name="job_with_deadline" ConfigName="Release"/>
+      <Project Name="dijkistra" ConfigName="Release"/>
+      <Project Name="Prim_min_span_tree" ConfigName="Release"/>
+      <Project Name="Kruskal_min_span_tree" ConfigName="Release"/>
+      <Project Name="Trie" ConfigName="Release"/>
+      <Project Name="Floyd_Warshall_all_pairs_shortest_path_matrix" ConfigName="Release"/>
+      <Project Name="atcoder_frog1" ConfigName="Release"/>
+      <Project Name="Paranthesization" ConfigName="Release"/>
+      <Project Name="paranthesization_back_tracking" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
